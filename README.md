@@ -1,0 +1,1 @@
+# ruby-self-readme-seiji-test-batch-001
